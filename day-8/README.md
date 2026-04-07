@@ -1,4 +1,4 @@
-# Day 58 – Metrics Server & Horizontal Pod Autoscaler (HPA)
+# Day 8 – Metrics Server & Horizontal Pod Autoscaler (HPA)
 
 ---
 
