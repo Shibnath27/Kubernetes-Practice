@@ -1,4 +1,4 @@
-# Day 59 – Helm: Kubernetes Package Manager
+# Day 9 – Helm: Kubernetes Package Manager
 
 ---
 
