@@ -1,4 +1,4 @@
-# Day 56 – Kubernetes StatefulSets
+# Day 6 – Kubernetes StatefulSets
 
 ---
 
