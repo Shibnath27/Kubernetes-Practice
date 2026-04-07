@@ -1,0 +1,9 @@
+replicaCount: 3
+
+service:
+  type: NodePort
+
+resources:
+  limits:
+    cpu: 200m
+    memory: 256Mi
